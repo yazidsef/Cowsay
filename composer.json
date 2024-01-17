@@ -1,0 +1,18 @@
+{
+    "name": "yazid-carproys/cowsay",
+    "description": "nothing",
+    "autoload": {
+        "psr-4": {
+            "YazidCarproys\\Cowsay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yazid sefsaf",
+            "email": "yazidsefsaf45@yahoo.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
